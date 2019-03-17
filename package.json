@@ -1,0 +1,28 @@
+{
+  "name": "node-express-handlebars",
+  "version": "1.0.0",
+  "description": "The application is a basic full-stack burger-storing application with a SQL DB.  The app uses express.js, mysql, modularization, and uses a basic 'ORM' to simplify CRUD requests to a Node.js server.  Additionally, I used handlebars.js express template engine to simplify the front-end of the application, but in the end, the application was a single page, so the templates were not entirely necessary - good practice though!",
+  "main": "server.js",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanjo03/node-express-handlebars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evanjo03/node-express-handlebars/issues"
+  },
+  "homepage": "https://github.com/evanjo03/node-express-handlebars#readme"
+}

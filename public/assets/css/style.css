@@ -1,0 +1,48 @@
+.card {
+    border: 2px solid gray;
+    color: black;
+} 
+
+body {
+    background-image: url("../images/background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Varela Round', sans-serif;
+    font-weight: 500;
+    color: white;
+} 
+
+.top {
+    background: rgb(4, 0, 39);
+    color: white;
+    padding: 10px;
+}
+
+h6 {
+    line-height: 1.0
+}
+
+footer {
+    background: rgb(4, 0, 39);
+    color: white;
+    padding: 5px;
+}
+
+.header {
+    background: white;
+    border: 2px solid gray;
+    padding: 20px;
+    color: black;
+    font-weight: 700;
+}
+
+a:hover {
+    color: black;
+}
+
+a:link, a:visited, a:active {
+    color: white;
+    text-decoration: none;
+};
+
