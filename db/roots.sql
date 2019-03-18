@@ -1,2 +1,2 @@
-INSERT INTO burgers (burger_name, devoured) 
-VALUES ("Volcano Burger", "/assets/images/images (2).jpg");
+INSERT INTO burgers (burger_name, devoured, burger_image) 
+VALUES ("Volcano Burger", 0, "/assets/images/images (2).jpg");
