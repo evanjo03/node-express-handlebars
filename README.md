@@ -9,7 +9,6 @@ The application is a basic full-stack burger-storing application with a SQL DB. 
 * MySQL DB
 * Express.js
 * Handlebars.js
-* 
 * Visual Basic - Text Editor
  
 ## Author
