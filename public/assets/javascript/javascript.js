@@ -15,7 +15,7 @@ var images = [
     "/assets/images/images (5).jpg"
 ];
 
-var imageCounter = Math.floor((Math.random() * images.length) - 1);
+var imageCounter = Math.floor((Math.random() * images.length));
 
 $(function() {
     $(".change-devoured").on("click", function (event) {
