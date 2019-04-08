@@ -1,6 +1,6 @@
 # node-express-handlebars
 
-The application is a basic full-stack burger-storing application with a SQL DB.  The app uses express.js, mysql, modularization, and uses a basic 'ORM' to simplify CRUD requests to a Node.js server.  Additionally, I used handlebars.js express template engine to simplify the front-end of the application, but in the end, the application was a single page, so the templates were not entirely necessary - good practice though!
+The application is a basic full-stack burger-storing application with a SQL DB.  The app uses express.js, mysql, modularization, and uses a custom ORM to simplify requests to a Node server.  Additionally, I used handlebars.js express template engine to simplify the front-end of the application, but in the end, the application was a single page, so the templates were not entirely necessary - good practice though!
 
  
 ## Built With
